@@ -1,21 +1,29 @@
-E00773451: I am doing work day
+E00773451: I am doing midterm!
 
 The first class, you will need to find your enumber and add today's date next to it. 
 Please leave blank line between entries. If you don't see your enumber, please add it (leaving a blank line on either side of it) and add the date.
 For subsequent classes, change the date to the keyword I give you at the start of class.
 
-E00762840: 2/12/2026 I'm doing workday
-E00760025: I am doing workday.
+E00760025: I am taking midterm today.
+Cade Kardes = E00762685 02/05/2026 I'm Learning Scrum Requirements
+Cade Kardes = E00762685 02/10/2026 I'm Learning Software Design
 Cade Kardes = E00762685 02/17/2026 I am doing work day.
+E00762840: 2/24/2026 I'm doing midterm
+Cade Kardes = E00762685 02/24/2026 I am doing Midterm
+E00768063  2/12/2026 I am taking a test/midterm :,(.
+E00764229 - 2/24/2026 - I am doing my midterm.
+E00768063  2/12/2026 I'm learning design and Sprint-1 :).
+E00769563 i'm doing midterm
 E00768063  2/12/2026 Im doing work today :).
-E00764229 - 2/17/2026 - I am doing work day.
-E00764229 - 2/12/2026 - Detail Design / Sprint 1
 
+E00762840: 2/12/2026 I'm learning about detail design and sprint 1
+E00760025: I am learning detail design and sprint 1 today.
 E00768063  2/10/2026 I'm learning Software design :).
-E00769563 software design
 E00764229  1/29/2026 - I'm learning SCRUM Requirements this week
 E00762840: 2/5/2026 I'm learning about scrum requirments.
-E00761240 I am doing work today.
+
+E00760025: I am learning SCRUM requirements today
+E00761240 I am doing the midterm today..
 
 E00773451: 1/22/2026
 E00762840: 2/3/2026 I'm learning about requirments
@@ -28,7 +36,7 @@ E00760025: I am learning requirements today
 E00762840: 1/29/2026 I'm learning about Scrum today.
 E00769563 i am learning scrum
 
-E00773450: I am doing work today
+E00773450: I am taking a midterm today 🔥
 E00768063  1/29/2026 I'm learning scrum today :).
 
 E00769563 i am studying life cycle models this week
@@ -47,7 +55,7 @@ E00773450 1/20/2026
 
 E00773450: 1/22/2026
 
-E00766705  2/10/2026 I am doing work day
+E00766705  2/19/2026 I am learning implementation today
 
 E00773451: 1/22/2026
 
@@ -57,10 +65,7 @@ E00768063  1/22/2026
 
 E00762840: 1/20/2026
 
-E00759597: 1/20/2026
-E00759597: I am learning detail design 
-
-E00759597: 1/22/2026
+E00759597: I am doing midterm today. 
 
 E00764229  1/20/2026
 
@@ -82,11 +87,11 @@ E00764314  1/20/2026
 
 E00763382  1/20/2026
 
-E00737402 02/17/2026 -  I am doing work day ***
+E00737402 02/17/2026 -  Im doing test today ***
 E00764314 1/22/2026
 
 
-E00760782  I am learning detailed design and sprint 1
+E00760782  I am taking a midterm
   
 E00762509 1/20/2026
 
@@ -115,24 +120,33 @@ E007374052 --- 1/27/26 I am learning lyfe cycle models this week
 
 E007374052 -- 1/29/26 I am learning about Scrum today
 
-E00760024 1/27/2026 - i am doing a work day today :3
+E00760024 1/27/2026 - i am doing midterm today :3
 
-E00764321 - 2/17/2026 - Im doing work day
+E00764321 - 2/19/2026 - Im doing implementation 
 
 E00763804 2/5/2026 I'm learing about Scrum Requirements!
 
 E00763382 - I'm learning Scrum
 
+E00762509 - I am taking my midterm today
+E00771613 - I'm learning Detail Design and Sprint 1
 
 E00762509 - I am learning detail design and Sprint 2
-E00771613 - I am doing work day
+E00771613 - I am doing my Midterm
 E00762509 - We did group work today
+E00765108 -Doing my midterm 2-24-26
 
 E00763804 - 2/10/2026 I'm learning about Software Design
 E00763382 - I'm learning requirements this week.
 
-E00764314 - I'm doing workday today
+E00764314 - I'm doing the midterm today! Jez
 E00763382 - I am doing work day.
-E00765108: I'm learning Sprints and Software Design 2-5/26 2-10-26
+E00763804 - 2/12/2026 I'm learning about Detail Design.
 
-E00763804 - 2/17/2026  I am doing work day
+E00765108 - I'm Learning Requirements
+
+E00763382 - I am taking midterm today.
+E00765108: I'm learning Sprints and Software Design 2-5/26 2-10-26
+E00763804 - 2/24/2026  I am doing a Midterm
+
+E00765108 Were learning implementation.
